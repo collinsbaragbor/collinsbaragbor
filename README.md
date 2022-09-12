@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @collinsbaragbor, I am a Data Analyst and React developer.
+- 👋 Hi, I’m @collinsbaragbor, I am a Software Engineer specializing in Data Analytics and Frontend Development.
 - 👀 I’m interested in Data Science, Analytics and Machine Learning.
 - 🌱 I’m currently learning Data Analysis.
 - 💞️ I’m looking to collaborate Data Analysis Projects as well as React projects.
