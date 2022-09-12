@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @collinsbaragbor, I am a frontend developer and Data Science enthusiast.
-- 👀 I’m interested in Web development, Data Science and Machine Learning.
+- 👋 Hi, I’m @collinsbaragbor, I am a Data Analyst and React developer.
+- 👀 I’m interested in Data Science, Analytics and Machine Learning.
 - 🌱 I’m currently learning Data Analysis.
-- 💞️ I’m looking to collaborate on Frontend Development as well as Data Analysis Projects.
+- 💞️ I’m looking to collaborate Data Analysis Projects as well as React projects.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/collins-baragbor-68420317b
 
 <!---
